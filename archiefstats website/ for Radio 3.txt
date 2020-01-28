@@ -1,0 +1,1 @@
+{"bool": {"should": [[{"term": {"bg:publications.bg:publication.bg:networks.bg:network": "NPO 3FM"}}, {"term": {"bg:publications.bg:publication.bg:networks.bg:network": "Radio 3"}}, {"term": {"bg:publications.bg:publication.bg:networks.bg:network": "Hilversum 3"}}, {"term": {"bg:publications.bg:publication.bg:networks.bg:network": "3FM"}}]], "minimum_should_match": 1}}

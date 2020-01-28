@@ -1,0 +1,1 @@
+{"bool": {"should": [[{"term": {"bga:series.bg:catalog.keyword": "Geluidsregistraties/Publieke omroep/Programma's"}}, {"term": {"bga:series.bg:catalog.keyword": "Geluidsregistraties/Publieke omroep/Hoorspelen"}}, {"term": {"bga:series.bg:catalog.keyword": "Geluidsregistraties/Commerci\u00eble omroep"}}]], "minimum_should_match": 1}}
