@@ -1,0 +1,1 @@
+{"bool": {"should": [[{"term": {"bga:series.bg:catalog.keyword": "Geluidsregistraties/Handelsplaten"}}, {"term": {"bga:series.bg:catalog.keyword": "Geluidsregistraties/Muziekopnamen Zendgemachtigden (MOZ)"}}]], "minimum_should_match": 1, "must_not": [[{"term": {"bga:series.bg:catalog.keyword": "Geluidsregistraties/Muziekopnamen Zendgemachtigden (MOZ)"}}]]}}

@@ -1,0 +1,1 @@
+{"bool": {"filter": [{"range": {"bg:publications.bg:publication.bg:sortdate": {"gte": "01-01-1873", "lte": "31-12-2018"}}}], "should": [[{"term": {"bga:series.bg:catalog.keyword": "Geluidsregistraties/Muziekopnamen Zendgemachtigden (MOZ)"}}]], "minimum_should_match": 1}}
