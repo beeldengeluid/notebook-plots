@@ -1,0 +1,1 @@
+{"bool": {"filter": [{"range": {"bg:publications.bg:publication.bg:sortdate": {"gte": "01-01-1970", "lte": "31-12-1979"}}}, {"term": {"bga:series.bg:genres.bg:genre": "documentaire"}}]}}
