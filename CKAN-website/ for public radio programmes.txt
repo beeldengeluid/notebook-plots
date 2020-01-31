@@ -1,0 +1,1 @@
+{"bool": {"filter": [{"term": {"bga:series.bg:catalog.keyword": "Geluidsregistraties/Publieke omroep/Programma's"}}]}}
