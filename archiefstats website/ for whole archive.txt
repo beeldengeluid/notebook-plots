@@ -1,1 +1,1 @@
-{"bool": {"filter": [{"range": {"bg:publications.bg:publication.bg:sortdate": {"gte": "01-01-1873", "lte": "31-12-2018"}}}]}}
+{}
