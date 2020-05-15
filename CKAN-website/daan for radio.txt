@@ -1,0 +1,1 @@
+{"bool": {"should": [{"term": {"series.partofcatalogue.keyword": "Geluidsregistraties - Publieke omroep - Programma's"}}], "minimum_should_match": 1}}
