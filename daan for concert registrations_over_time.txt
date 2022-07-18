@@ -1,0 +1,1 @@
+{"bool": {"filter": [{"term": {"series.title.keyword": "Muziekopnamen Zendgemachtigden (MOZ)"}}]}}

@@ -1,0 +1,1 @@
+{"bool": {"filter": [{"term": {"program.sourcecatalogue.keyword": "handelsplaten_registratie.mdb"}}]}}
